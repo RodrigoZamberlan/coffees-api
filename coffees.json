@@ -1,0 +1,34 @@
+[
+  {
+    srcImg: "imgs/capuccino-1.jpg",
+    altImg: "Image of the capuccino",
+    name: "Capuccino",
+    description: "With oat milk",
+    currency: "$",
+    price: 5.5,
+  },
+  {
+    srcImg: "imgs/capuccino-2.jpg",
+    altImg: "Image of the capuccino",
+    name: "Capuccino",
+    description: "With chocolate",
+    currency: "$",
+    price: 4.5,
+  },
+  {
+    srcImg: "imgs/capuccino-3.jpg",
+    altImg: "Image of the capuccino",
+    name: "Capuccino",
+    description: "With Vanilla",
+    currency: "$",
+    price: 4,
+  },
+  {
+    srcImg: "imgs/capuccino-4.jpg",
+    altImg: "Image of the capuccino",
+    name: "Capuccino",
+    description: "With regular milk",
+    currency: "$",
+    price: 3,
+  },
+]
